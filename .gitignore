@@ -56,9 +56,9 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
+#*.apk
 *.aab
-*.unitypackage
+#*.unitypackage
 *.app
 
 # Crashlytics generated file
@@ -70,3 +70,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+midterm.unitypackage
+Assets/Textures/Color.png
+midterm.apk
+Screen_Recording_midterm.mp4
